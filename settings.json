@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "hatdogggcove.aternos.me",
+    "ip": "hatdogggcove",
     "port": 11119,
     "version": "1.21.10",
     "try-creative": false
